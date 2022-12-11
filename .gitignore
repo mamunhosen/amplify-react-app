@@ -43,6 +43,8 @@ amplify-gradle-config.json
 amplifytools.xcconfig
 .secret-*
 **.sample
+amplify/backend/backend-config.json
+amplify/team-provider-info.json
 #amplify-do-not-edit-end
 
 # Editor directories and files
